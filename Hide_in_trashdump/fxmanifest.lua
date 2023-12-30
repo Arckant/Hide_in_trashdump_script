@@ -1,10 +1,10 @@
 version '1.1.0'
 author 'Arckant#0815'
-repository 'https://github.com/citizenfx/cfx-server-data'
+repository 'https://github.com/Arckant/Hide_in_trashdump'
 
-resource_type 'client_script' { name = 'client' }
+resource_type 'client_script' { name = 'Hide_in_trashdumpt' }
 
-client_script 'client.lua'
+client_script 'Hide_in_trashdump.lua'
 -- server_script 'server.lua'
 
 game 'gta5'
